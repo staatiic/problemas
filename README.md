@@ -22,6 +22,9 @@ Notebook de Jupyter que resuelve dos subproblemas:
 
 ## 3. `problema2-frontend` (Evaluador de Riesgo Crediticio)
 Aplicación web desarrollada con Flask y HTML/CSS/JS para calcular el riesgo crediticio de una persona en función de su ingreso mensual y el crédito solicitado.
+Así se ve la aplicación en funcionamiento:
+
+![Vista previa de la aplicación](problema2-frontend/static/ss.png) 
 
 - **¿Cómo ejecutarlo?**
   1. Instala las dependencias:

@@ -2,6 +2,14 @@
 
 Aplicación web sencilla para calcular el riesgo crediticio de una persona en función de su ingreso mensual y el crédito solicitado.
 
+## Vista previa
+
+Así se ve la aplicación en funcionamiento:
+
+![Vista previa de la aplicación](static/ss.png)
+
+**Nota:** No se incluyó la variable de edad en la evaluación para no modificar los umbrales de riesgo definidos originalmente.
+
 ## Instalación
 
 1. Clona este repositorio o descarga los archivos.
