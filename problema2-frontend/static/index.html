@@ -14,11 +14,11 @@
         <form id="evaluacionForm">
             <div class="form-group">
                 <label for="ingreso">Ingreso Mensual:</label>
-                <input type="text" id="ingreso" name="ingreso" required placeholder="Ingresa tu ingreso mensual">
+                <input type="number" id="ingreso" name="ingreso" required placeholder="Ingresa tu ingreso mensual" step="any" min="0">
             </div>
             <div class="form-group">
                 <label for="credito">Crédito Solicitado:</label>
-                <input type="text" id="credito" name="credito" required placeholder="Ingresa el monto del crédito">
+                <input type="number" id="credito" name="credito" required placeholder="Ingresa el monto del crédito" step="any" min="0">
             </div>
             <button type="submit" class="btn">Evaluar Riesgo</button>
         </form>
